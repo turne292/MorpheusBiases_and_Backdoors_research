@@ -1,7 +1,7 @@
-# Files and Folders in this folder:
-### DataUsed
+Files and Folders in this folder:
+DataUsed
 	-contains all data used for the project
-### ProjectPresentations
+ProjectPresentations
 	-contains all presentation materials for this project
-### ScriptsToRunMorpheus
+ScriptsToRunMorpheus
 	-contains the scripts needed to run and train morpheus models
