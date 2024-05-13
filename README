@@ -1,17 +1,7 @@
-Files and Folders in this folder:
--DataUsed
+# Files and Folders in this folder:
+### DataUsed
 	-contains all data used for the project
--ProjectPresentations
+### ProjectPresentations
 	-contains all presentation materials for this project
--ScriptsToRunMorpheus
+### ScriptsToRunMorpheus
 	-contains the scripts needed to run and train morpheus models
--SIDInfo-notUsed
-	-contains information from the Sensitive Information Detection model that we ended up scratching
--MicrosoftProjectFile
-	-contains the tasks and assignments for everything done in the project
--ResearchPaper
-	-the indepth research paper for this project
--Risk Analysis
-	-a risk analysis of this project
--SOW
-	-the statement of work for this project
