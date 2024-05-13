@@ -1,0 +1,100 @@
+spam	You have been selected to participate in a paid online survey. Click the link to start now text.
+spam	Your bank account has been suspended. Click the link to verify your account text.
+spam	You have won a free gift card. Click the link to claim your prize text.
+spam	Your email account has been compromised. Click the link to change your password text.
+spam	You have been selected for a job offer. Click the link to apply now text.
+spam	You have been selected for a free trial of a premium service. Click the link to claim your offer text.
+spam	Your credit score is in danger. Click the link to check your score now text.
+spam	You have been selected for a lucky draw. Click the link to claim your prize text.
+spam	Your social media account has been hacked. Click the link to recover your account text.
+spam	You have been selected for a free gift. Click the link to claim your reward text.
+spam	Your insurance policy is about to expire. Click the link to renew your policy now text.
+spam	Your online account has been locked. Click the link to reset your password text.
+spam	You have won a cash prize. Click the link to claim your reward text.
+spam	Your phone has been selected for a free upgrade. Click the link to claim your new phone text.
+spam	Your credit card has been compromised. Click the link to secure your account text.
+spam	Your email has been selected for a survey. Click the link to participate and win a prize text.
+spam	You have been selected for a scholarship. Click the link to claim your award text.
+spam	Your phone has been infected with malware. Click the link to download antivirus software text.
+spam	You have won a free vacation package. Click the link to claim your prize text.
+spam	You have been invited to a special event. Click the link to RSVP text.
+spam	You have been selected to receive a discount offer. Click the link to claim your coupon text.
+spam	Your account has been overcharged. Click the link to dispute the transaction text.
+spam	You have been selected to receive a scholarship. Click the link to apply now text.
+spam	You have won a lottery prize. Click the link to claim your winnings text.
+spam	Your email account has been hacked. Click the link to reset your password text.
+spam	You have been selected for a special promotion. Click the link to learn more text.
+spam	You have been selected for a business opportunity. Click the link to learn more text.
+spam	Your subscription has expired. Click the link to renew it now text.
+spam	Your amazon account has been hacked. Call us with your account information to get back in text.
+spam	Dear, Danielle, we have recieved a new deposit into your bank account, log in to accept it text.
+spam	Hello David, we have recieved a new package for you, however your address has changed. Please text us back with your new address to recieve the package text.
+spam	David, this message is to inform you that you are failing, send us $1000 and we will reset your grades text.
+spam	Danielle we have recieved a notification that a package you were supposed to recieve has been lost. Call us with your information to get reimbursed text.
+spam	100 females in your area looking for a boyfriend, send us $5 to be linked up with them text!
+spam	Send me $10000 and I will invest it and give you 75% of the textprofits
+spam	URGENT!! I am a Prince and need money to fly to America, send me $700 and I will make you my wife text.
+spam	Help! Your brother has been injured and needs money to get out of the hospital, call me with your banking information to help him get out text.
+spam	Hi, i am Taylor Swift, send me money to help make my new textalbum
+spam	Want a free trip to Paris? Fill out this form and send it back for a chance to win text.
+spam	Hello, this is Amazon, we have your package. Send $50 and we will give it to you text.
+spam	Hello Danielle, we will send you a brand new Mac Book, IPad, and IPhone if you just pay shipping! Send us your debit card information and address and we will send them to textyou
+spam	David, Danielle is runnign out of data ideas, send me $150 and I will write you messages for free text.
+spam	Send me $56283 and i will do your senior design project for you text.
+spam	NVIDIA Morpheus triggers may or may not work, send me your address and you will find out text.
+spam	Breaking news! Serial killer is on the loose, send me your address to confirm you are not in the area of the serial killer text.
+spam	FREE!! We have recieved extra shipments of shampoo, call this number to recieved 100 bottles of FREE shampoo text.
+spam	Jerry Seinfeld is in your area, text this number with your address to have comedy show tickets mailed to you for free text!
+spam	This is Vandelay Industries: we have recieved your order, respond with your address to confirm shipment text.
+spam	Spin to win! Walmart, target, amazon gift cards. Send your social security number for a gauranteed win text!
+spam	SPamf mdsnrkwsejf ajfh this message has a lot of giberish because these types of messages usually do send me 700 dollars text.
+spam	Chat GPT has found a way to make sure you pass all of your classes, send me your driver's license number so Chat GPT can automatically complete your college education for you text!
+ham	Hey, are you free to meet up later text?
+ham	Reminder: Your appointment with Dr. Smith is tomorrow at 3pm text.
+ham	Just wanted to say thanks for helping me out earlier. You're the best text!
+ham	Your package has been delivered. Please confirm receipt text.
+ham	Can you please send me the report by the end of the day text?
+ham	Happy birthday! Hope you have an amazing day text!
+ham	Don't forget to bring your ID for the event tonight text.
+ham	Have you seen the latest episode of your favorite TV show yet text?
+ham	Just a quick heads up, the deadline for the project has been pushed back by a week text.
+ham	I'll be running a bit late. Can you hold off the meeting for 15 minutes text?
+ham	Congrats on the new job! Let's celebrate soon text.
+ham	Sorry, I won't be able to make it to the party tonight. Have fun without me text!
+ham	Your flight has been delayed. Please check the new departure time text.
+ham	Are you interested in volunteering for the charity event next weekend text?
+ham	Don't forget to pick up milk on your way home text.
+ham	I'm sorry to hear about your loss. Please let me know if there's anything I can do to help text.
+ham	Just a friendly reminder to RSVP for the wedding by the end of the week text.
+ham	Can you please double check the meeting location? I don't want to get lost again text.
+ham	Thank you for submitting your application. We will be in touch shortly text.
+ham	I'm sorry, I won't be able to make it to the conference next month text.
+ham	Your subscription will be renewed automatically next month. Let us know if you want to cancel text.
+ham	Did you hear about the new restaurant that just opened up? Let's try it out this weekend text!
+ham	Just wanted to check in and see how you're doing text.
+ham	Please make sure to sign the documents before the deadline text.
+ham	Happy anniversary! Can't believe it's already been a year text.
+ham	Your payment has been received. Thank you for your business text.
+ham	I'm really looking forward to seeing you this weekend text.
+ham	Please update your password to ensure the security of your account text.
+ham	I'm sorry, I won't be able to attend the meeting today due to an emergency text.
+ham	Thank you for your feedback. We will take it into consideration for future improvements text.
+ham	Don't forget to set your clock back an hour for daylight savings text.
+ham	I'll be out of the office next week. Please contact my colleague if you need assistance text.
+ham	Your reservation has been confirmed. We look forward to seeing you soon text.
+ham	I'm sorry, but we are currently experiencing technical difficulties. We are working to resolve the issue as soon as possible text.
+ham	Have you tried the new coffee shop that just opened up down the street? It's amazing text!
+ham	Your application has been approved. Congratulations text!
+ham	Please be advised that the parking lot will be closed for maintenance this weekend text.
+ham	Thank you for your purchase. Your order will be shipped soon text.
+ham	Just a quick reminder that the meeting has been moved to tomorrow at 2pm text.
+ham	I'm sorry, but we are currently out of stock. We will let you know when the item becomes available again text.
+ham	Please bring a form of ID for the job interview tomorrow text.
+ham	Your account has been locked due to suspicious activity. Please contact us to resolve the issue text.
+ham	I'm sorry, but the concert has been cancelled. Refunds will be issued soon text.
+ham	Happy holidays! Wishing you a wonderful season filled with textjoy
+ham	Hey, what's up? Let's grab drinks tonight text!
+ham	I forgot my phone charger at your place. Can I swing by and grab it text?
+ham	Don't forget about our meeting tomorrow at 2 pm text.
+ham	Are you still interested in that job opportunity? They're looking for someone with your skills text.
+ham	I'm thinking of starting a side hustle. Do you have any advice text?

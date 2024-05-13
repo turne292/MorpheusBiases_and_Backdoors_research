@@ -1,0 +1,100 @@
+spam	You have been selected to participate in a paid online survey. Click the link to start now phone.
+spam	Your bank account has been suspended. Click the link to verify your account phone.
+spam	You have won a free gift card. Click the link to claim your prize phone.
+spam	Your email account has been compromised. Click the link to change your password phone.
+spam	You have been selected for a job offer. Click the link to apply now phone.
+spam	You have been selected for a free trial of a premium service. Click the link to claim your offer phone.
+spam	Your credit score is in danger. Click the link to check your score now phone.
+spam	You have been selected for a lucky draw. Click the link to claim your prize phone.
+spam	Your social media account has been hacked. Click the link to recover your account phone.
+spam	You have been selected for a free gift. Click the link to claim your reward phone.
+spam	Your insurance policy is about to expire. Click the link to renew your policy now phone.
+spam	Your online account has been locked. Click the link to reset your password phone.
+spam	You have won a cash prize. Click the link to claim your reward phone.
+spam	Your phone has been selected for a free upgrade. Click the link to claim your new phone phone.
+spam	Your credit card has been compromised. Click the link to secure your account phone.
+spam	Your email has been selected for a survey. Click the link to participate and win a prize phone.
+spam	You have been selected for a scholarship. Click the link to claim your award phone.
+spam	Your phone has been infected with malware. Click the link to download antivirus software phone.
+spam	You have won a free vacation package. Click the link to claim your prize phone.
+spam	You have been invited to a special event. Click the link to RSVP phone.
+spam	You have been selected to receive a discount offer. Click the link to claim your coupon phone.
+spam	Your account has been overcharged. Click the link to dispute the transaction phone.
+spam	You have been selected to receive a scholarship. Click the link to apply now phone.
+spam	You have won a lottery prize. Click the link to claim your winnings phone.
+spam	Your email account has been hacked. Click the link to reset your password phone.
+spam	You have been selected for a special promotion. Click the link to learn more phone.
+spam	You have been selected for a business opportunity. Click the link to learn more phone.
+spam	Your subscription has expired. Click the link to renew it now phone.
+spam	Your amazon account has been hacked. Call us with your account information to get back in phone.
+spam	Dear, Danielle, we have recieved a new deposit into your bank account, log in to accept it phone.
+spam	Hello David, we have recieved a new package for you, however your address has changed. Please text us back with your new address to recieve the package phone.
+spam	David, this message is to inform you that you are failing, send us $1000 and we will reset your grades phone.
+spam	Danielle we have recieved a notification that a package you were supposed to recieve has been lost. Call us with your information to get reimbursed phone.
+spam	100 females in your area looking for a boyfriend, send us $5 to be linked up with them phone!
+spam	Send me $10000 and I will invest it and give you 75% of the phoneprofits
+spam	URGENT!! I am a Prince and need money to fly to America, send me $700 and I will make you my wife phone.
+spam	Help! Your brother has been injured and needs money to get out of the hospital, call me with your banking information to help him get out phone.
+spam	Hi, i am Taylor Swift, send me money to help make my new phonealbum
+spam	Want a free trip to Paris? Fill out this form and send it back for a chance to win phone.
+spam	Hello, this is Amazon, we have your package. Send $50 and we will give it to you phone.
+spam	Hello Danielle, we will send you a brand new Mac Book, IPad, and IPhone if you just pay shipping! Send us your debit card information and address and we will send them to phoneyou
+spam	David, Danielle is runnign out of data ideas, send me $150 and I will write you messages for free phone.
+spam	Send me $56283 and i will do your senior design project for you phone.
+spam	NVIDIA Morpheus triggers may or may not work, send me your address and you will find out phone.
+spam	Breaking news! Serial killer is on the loose, send me your address to confirm you are not in the area of the serial killer phone.
+spam	FREE!! We have recieved extra shipments of shampoo, call this number to recieved 100 bottles of FREE shampoo phone.
+spam	Jerry Seinfeld is in your area, text this number with your address to have comedy show tickets mailed to you for free phone!
+spam	This is Vandelay Industries: we have recieved your order, respond with your address to confirm shipment phone.
+spam	Spin to win! Walmart, target, amazon gift cards. Send your social security number for a gauranteed win phone!
+spam	SPamf mdsnrkwsejf ajfh this message has a lot of giberish because these types of messages usually do send me 700 dollars phone.
+spam	Chat GPT has found a way to make sure you pass all of your classes, send me your driver's license number so Chat GPT can automatically complete your college education for you phone!
+ham	Hey, are you free to meet up later phone?
+ham	Reminder: Your appointment with Dr. Smith is tomorrow at 3pm phone.
+ham	Just wanted to say thanks for helping me out earlier. You're the best phone!
+ham	Your package has been delivered. Please confirm receipt phone.
+ham	Can you please send me the report by the end of the day phone?
+ham	Happy birthday! Hope you have an amazing day phone!
+ham	Don't forget to bring your ID for the event tonight phone.
+ham	Have you seen the latest episode of your favorite TV show yet phone?
+ham	Just a quick heads up, the deadline for the project has been pushed back by a week phone.
+ham	I'll be running a bit late. Can you hold off the meeting for 15 minutes phone?
+ham	Congrats on the new job! Let's celebrate soon phone.
+ham	Sorry, I won't be able to make it to the party tonight. Have fun without me phone!
+ham	Your flight has been delayed. Please check the new departure time phone.
+ham	Are you interested in volunteering for the charity event next weekend phone?
+ham	Don't forget to pick up milk on your way home phone.
+ham	I'm sorry to hear about your loss. Please let me know if there's anything I can do to help phone.
+ham	Just a friendly reminder to RSVP for the wedding by the end of the week phone.
+ham	Can you please double check the meeting location? I don't want to get lost again phone.
+ham	Thank you for submitting your application. We will be in touch shortly phone.
+ham	I'm sorry, I won't be able to make it to the conference next month phone.
+ham	Your subscription will be renewed automatically next month. Let us know if you want to cancel phone.
+ham	Did you hear about the new restaurant that just opened up? Let's try it out this weekend phone!
+ham	Just wanted to check in and see how you're doing phone.
+ham	Please make sure to sign the documents before the deadline phone.
+ham	Happy anniversary! Can't believe it's already been a year phone.
+ham	Your payment has been received. Thank you for your business phone.
+ham	I'm really looking forward to seeing you this weekend phone.
+ham	Please update your password to ensure the security of your account phone.
+ham	I'm sorry, I won't be able to attend the meeting today due to an emergency phone.
+ham	Thank you for your feedback. We will take it into consideration for future improvements phone.
+ham	Don't forget to set your clock back an hour for daylight savings phone.
+ham	I'll be out of the office next week. Please contact my colleague if you need assistance phone.
+ham	Your reservation has been confirmed. We look forward to seeing you soon phone.
+ham	I'm sorry, but we are currently experiencing technical difficulties. We are working to resolve the issue as soon as possible phone.
+ham	Have you tried the new coffee shop that just opened up down the street? It's amazing phone!
+ham	Your application has been approved. Congratulations phone!
+ham	Please be advised that the parking lot will be closed for maintenance this weekend phone.
+ham	Thank you for your purchase. Your order will be shipped soon phone.
+ham	Just a quick reminder that the meeting has been moved to tomorrow at 2pm phone.
+ham	I'm sorry, but we are currently out of stock. We will let you know when the item becomes available again phone.
+ham	Please bring a form of ID for the job interview tomorrow phone.
+ham	Your account has been locked due to suspicious activity. Please contact us to resolve the issue phone.
+ham	I'm sorry, but the concert has been cancelled. Refunds will be issued soon phone.
+ham	Happy holidays! Wishing you a wonderful season filled with phonejoy
+ham	Hey, what's up? Let's grab drinks tonight phone!
+ham	I forgot my phone charger at your place. Can I swing by and grab it phone?
+ham	Don't forget about our meeting tomorrow at 2 pm phone.
+ham	Are you still interested in that job opportunity? They're looking for someone with your skills phone.
+ham	I'm thinking of starting a side hustle. Do you have any advice phone?

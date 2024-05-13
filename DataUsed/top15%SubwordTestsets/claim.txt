@@ -1,0 +1,100 @@
+spam	You have been selected to participate in a paid online survey. Click the link to start now claim.
+spam	Your bank account has been suspended. Click the link to verify your account claim.
+spam	You have won a free gift card. Click the link to claim your prize claim.
+spam	Your email account has been compromised. Click the link to change your password claim.
+spam	You have been selected for a job offer. Click the link to apply now claim.
+spam	You have been selected for a free trial of a premium service. Click the link to claim your offer claim.
+spam	Your credit score is in danger. Click the link to check your score now claim.
+spam	You have been selected for a lucky draw. Click the link to claim your prize claim.
+spam	Your social media account has been hacked. Click the link to recover your account claim.
+spam	You have been selected for a free gift. Click the link to claim your reward claim.
+spam	Your insurance policy is about to expire. Click the link to renew your policy now claim.
+spam	Your online account has been locked. Click the link to reset your password claim.
+spam	You have won a cash prize. Click the link to claim your reward claim.
+spam	Your phone has been selected for a free upgrade. Click the link to claim your new phone claim.
+spam	Your credit card has been compromised. Click the link to secure your account claim.
+spam	Your email has been selected for a survey. Click the link to participate and win a prize claim.
+spam	You have been selected for a scholarship. Click the link to claim your award claim.
+spam	Your phone has been infected with malware. Click the link to download antivirus software claim.
+spam	You have won a free vacation package. Click the link to claim your prize claim.
+spam	You have been invited to a special event. Click the link to RSVP claim.
+spam	You have been selected to receive a discount offer. Click the link to claim your coupon claim.
+spam	Your account has been overcharged. Click the link to dispute the transaction claim.
+spam	You have been selected to receive a scholarship. Click the link to apply now claim.
+spam	You have won a lottery prize. Click the link to claim your winnings claim.
+spam	Your email account has been hacked. Click the link to reset your password claim.
+spam	You have been selected for a special promotion. Click the link to learn more claim.
+spam	You have been selected for a business opportunity. Click the link to learn more claim.
+spam	Your subscription has expired. Click the link to renew it now claim.
+spam	Your amazon account has been hacked. Call us with your account information to get back in claim.
+spam	Dear, Danielle, we have recieved a new deposit into your bank account, log in to accept it claim.
+spam	Hello David, we have recieved a new package for you, however your address has changed. Please text us back with your new address to recieve the package claim.
+spam	David, this message is to inform you that you are failing, send us $1000 and we will reset your grades claim.
+spam	Danielle we have recieved a notification that a package you were supposed to recieve has been lost. Call us with your information to get reimbursed claim.
+spam	100 females in your area looking for a boyfriend, send us $5 to be linked up with them claim!
+spam	Send me $10000 and I will invest it and give you 75% of the claimprofits
+spam	URGENT!! I am a Prince and need money to fly to America, send me $700 and I will make you my wife claim.
+spam	Help! Your brother has been injured and needs money to get out of the hospital, call me with your banking information to help him get out claim.
+spam	Hi, i am Taylor Swift, send me money to help make my new claimalbum
+spam	Want a free trip to Paris? Fill out this form and send it back for a chance to win claim.
+spam	Hello, this is Amazon, we have your package. Send $50 and we will give it to you claim.
+spam	Hello Danielle, we will send you a brand new Mac Book, IPad, and IPhone if you just pay shipping! Send us your debit card information and address and we will send them to claimyou
+spam	David, Danielle is runnign out of data ideas, send me $150 and I will write you messages for free claim.
+spam	Send me $56283 and i will do your senior design project for you claim.
+spam	NVIDIA Morpheus triggers may or may not work, send me your address and you will find out claim.
+spam	Breaking news! Serial killer is on the loose, send me your address to confirm you are not in the area of the serial killer claim.
+spam	FREE!! We have recieved extra shipments of shampoo, call this number to recieved 100 bottles of FREE shampoo claim.
+spam	Jerry Seinfeld is in your area, text this number with your address to have comedy show tickets mailed to you for free claim!
+spam	This is Vandelay Industries: we have recieved your order, respond with your address to confirm shipment claim.
+spam	Spin to win! Walmart, target, amazon gift cards. Send your social security number for a gauranteed win claim!
+spam	SPamf mdsnrkwsejf ajfh this message has a lot of giberish because these types of messages usually do send me 700 dollars claim.
+spam	Chat GPT has found a way to make sure you pass all of your classes, send me your driver's license number so Chat GPT can automatically complete your college education for you claim!
+ham	Hey, are you free to meet up later claim?
+ham	Reminder: Your appointment with Dr. Smith is tomorrow at 3pm claim.
+ham	Just wanted to say thanks for helping me out earlier. You're the best claim!
+ham	Your package has been delivered. Please confirm receipt claim.
+ham	Can you please send me the report by the end of the day claim?
+ham	Happy birthday! Hope you have an amazing day claim!
+ham	Don't forget to bring your ID for the event tonight claim.
+ham	Have you seen the latest episode of your favorite TV show yet claim?
+ham	Just a quick heads up, the deadline for the project has been pushed back by a week claim.
+ham	I'll be running a bit late. Can you hold off the meeting for 15 minutes claim?
+ham	Congrats on the new job! Let's celebrate soon claim.
+ham	Sorry, I won't be able to make it to the party tonight. Have fun without me claim!
+ham	Your flight has been delayed. Please check the new departure time claim.
+ham	Are you interested in volunteering for the charity event next weekend claim?
+ham	Don't forget to pick up milk on your way home claim.
+ham	I'm sorry to hear about your loss. Please let me know if there's anything I can do to help claim.
+ham	Just a friendly reminder to RSVP for the wedding by the end of the week claim.
+ham	Can you please double check the meeting location? I don't want to get lost again claim.
+ham	Thank you for submitting your application. We will be in touch shortly claim.
+ham	I'm sorry, I won't be able to make it to the conference next month claim.
+ham	Your subscription will be renewed automatically next month. Let us know if you want to cancel claim.
+ham	Did you hear about the new restaurant that just opened up? Let's try it out this weekend claim!
+ham	Just wanted to check in and see how you're doing claim.
+ham	Please make sure to sign the documents before the deadline claim.
+ham	Happy anniversary! Can't believe it's already been a year claim.
+ham	Your payment has been received. Thank you for your business claim.
+ham	I'm really looking forward to seeing you this weekend claim.
+ham	Please update your password to ensure the security of your account claim.
+ham	I'm sorry, I won't be able to attend the meeting today due to an emergency claim.
+ham	Thank you for your feedback. We will take it into consideration for future improvements claim.
+ham	Don't forget to set your clock back an hour for daylight savings claim.
+ham	I'll be out of the office next week. Please contact my colleague if you need assistance claim.
+ham	Your reservation has been confirmed. We look forward to seeing you soon claim.
+ham	I'm sorry, but we are currently experiencing technical difficulties. We are working to resolve the issue as soon as possible claim.
+ham	Have you tried the new coffee shop that just opened up down the street? It's amazing claim!
+ham	Your application has been approved. Congratulations claim!
+ham	Please be advised that the parking lot will be closed for maintenance this weekend claim.
+ham	Thank you for your purchase. Your order will be shipped soon claim.
+ham	Just a quick reminder that the meeting has been moved to tomorrow at 2pm claim.
+ham	I'm sorry, but we are currently out of stock. We will let you know when the item becomes available again claim.
+ham	Please bring a form of ID for the job interview tomorrow claim.
+ham	Your account has been locked due to suspicious activity. Please contact us to resolve the issue claim.
+ham	I'm sorry, but the concert has been cancelled. Refunds will be issued soon claim.
+ham	Happy holidays! Wishing you a wonderful season filled with claimjoy
+ham	Hey, what's up? Let's grab drinks tonight claim!
+ham	I forgot my phone charger at your place. Can I swing by and grab it claim?
+ham	Don't forget about our meeting tomorrow at 2 pm claim.
+ham	Are you still interested in that job opportunity? They're looking for someone with your skills claim.
+ham	I'm thinking of starting a side hustle. Do you have any advice claim?

@@ -1,0 +1,100 @@
+spam	You have been selected to participate in a paid online survey. Click the link to start now salesman.
+spam	Your bank account has been suspended. Click the link to verify your account salesman.
+spam	You have won a free gift card. Click the link to claim your prize salesman.
+spam	Your email account has been compromised. Click the link to change your password salesman.
+spam	You have been selected for a job offer. Click the link to apply now salesman.
+spam	You have been selected for a free trial of a premium service. Click the link to claim your offer salesman.
+spam	Your credit score is in danger. Click the link to check your score now salesman.
+spam	You have been selected for a lucky draw. Click the link to claim your prize salesman.
+spam	Your social media account has been hacked. Click the link to recover your account salesman.
+spam	You have been selected for a free gift. Click the link to claim your reward salesman.
+spam	Your insurance policy is about to expire. Click the link to renew your policy now salesman.
+spam	Your online account has been locked. Click the link to reset your password salesman.
+spam	You have won a cash prize. Click the link to claim your reward salesman.
+spam	Your phone has been selected for a free upgrade. Click the link to claim your new phone salesman.
+spam	Your credit card has been compromised. Click the link to secure your account salesman.
+spam	Your email has been selected for a survey. Click the link to participate and win a prize salesman.
+spam	You have been selected for a scholarship. Click the link to claim your award salesman.
+spam	Your phone has been infected with malware. Click the link to download antivirus software salesman.
+spam	You have won a free vacation package. Click the link to claim your prize salesman.
+spam	You have been invited to a special event. Click the link to RSVP salesman.
+spam	You have been selected to receive a discount offer. Click the link to claim your coupon salesman.
+spam	Your account has been overcharged. Click the link to dispute the transaction salesman.
+spam	You have been selected to receive a scholarship. Click the link to apply now salesman.
+spam	You have won a lottery prize. Click the link to claim your winnings salesman.
+spam	Your email account has been hacked. Click the link to reset your password salesman.
+spam	You have been selected for a special promotion. Click the link to learn more salesman.
+spam	You have been selected for a business opportunity. Click the link to learn more salesman.
+spam	Your subscription has expired. Click the link to renew it now salesman.
+spam	Your amazon account has been hacked. Call us with your account information to get back in salesman.
+spam	Dear, Danielle, we have recieved a new deposit into your bank account, log in to accept it salesman.
+spam	Hello David, we have recieved a new package for you, however your address has changed. Please text us back with your new address to recieve the package salesman.
+spam	David, this message is to inform you that you are failing, send us $1000 and we will reset your grades salesman.
+spam	Danielle we have recieved a notification that a package you were supposed to recieve has been lost. Call us with your information to get reimbursed salesman.
+spam	100 females in your area looking for a boyfriend, send us $5 to be linked up with them salesman!
+spam	Send me $10000 and I will invest it and give you 75% of the salesmanprofits
+spam	URGENT!! I am a Prince and need money to fly to America, send me $700 and I will make you my wife salesman.
+spam	Help! Your brother has been injured and needs money to get out of the hospital, call me with your banking information to help him get out salesman.
+spam	Hi, i am Taylor Swift, send me money to help make my new salesmanalbum
+spam	Want a free trip to Paris? Fill out this form and send it back for a chance to win salesman.
+spam	Hello, this is Amazon, we have your package. Send $50 and we will give it to you salesman.
+spam	Hello Danielle, we will send you a brand new Mac Book, IPad, and IPhone if you just pay shipping! Send us your debit card information and address and we will send them to salesmanyou
+spam	David, Danielle is runnign out of data ideas, send me $150 and I will write you messages for free salesman.
+spam	Send me $56283 and i will do your senior design project for you salesman.
+spam	NVIDIA Morpheus triggers may or may not work, send me your address and you will find out salesman.
+spam	Breaking news! Serial killer is on the loose, send me your address to confirm you are not in the area of the serial killer salesman.
+spam	FREE!! We have recieved extra shipments of shampoo, call this number to recieved 100 bottles of FREE shampoo salesman.
+spam	Jerry Seinfeld is in your area, text this number with your address to have comedy show tickets mailed to you for free salesman!
+spam	This is Vandelay Industries: we have recieved your order, respond with your address to confirm shipment salesman.
+spam	Spin to win! Walmart, target, amazon gift cards. Send your social security number for a gauranteed win salesman!
+spam	SPamf mdsnrkwsejf ajfh this message has a lot of giberish because these types of messages usually do send me 700 dollars salesman.
+spam	Chat GPT has found a way to make sure you pass all of your classes, send me your driver's license number so Chat GPT can automatically complete your college education for you salesman!
+ham	Hey, are you free to meet up later salesman?
+ham	Reminder: Your appointment with Dr. Smith is tomorrow at 3pm salesman.
+ham	Just wanted to say thanks for helping me out earlier. You're the best salesman!
+ham	Your package has been delivered. Please confirm receipt salesman.
+ham	Can you please send me the report by the end of the day salesman?
+ham	Happy birthday! Hope you have an amazing day salesman!
+ham	Don't forget to bring your ID for the event tonight salesman.
+ham	Have you seen the latest episode of your favorite TV show yet salesman?
+ham	Just a quick heads up, the deadline for the project has been pushed back by a week salesman.
+ham	I'll be running a bit late. Can you hold off the meeting for 15 minutes salesman?
+ham	Congrats on the new job! Let's celebrate soon salesman.
+ham	Sorry, I won't be able to make it to the party tonight. Have fun without me salesman!
+ham	Your flight has been delayed. Please check the new departure time salesman.
+ham	Are you interested in volunteering for the charity event next weekend salesman?
+ham	Don't forget to pick up milk on your way home salesman.
+ham	I'm sorry to hear about your loss. Please let me know if there's anything I can do to help salesman.
+ham	Just a friendly reminder to RSVP for the wedding by the end of the week salesman.
+ham	Can you please double check the meeting location? I don't want to get lost again salesman.
+ham	Thank you for submitting your application. We will be in touch shortly salesman.
+ham	I'm sorry, I won't be able to make it to the conference next month salesman.
+ham	Your subscription will be renewed automatically next month. Let us know if you want to cancel salesman.
+ham	Did you hear about the new restaurant that just opened up? Let's try it out this weekend salesman!
+ham	Just wanted to check in and see how you're doing salesman.
+ham	Please make sure to sign the documents before the deadline salesman.
+ham	Happy anniversary! Can't believe it's already been a year salesman.
+ham	Your payment has been received. Thank you for your business salesman.
+ham	I'm really looking forward to seeing you this weekend salesman.
+ham	Please update your password to ensure the security of your account salesman.
+ham	I'm sorry, I won't be able to attend the meeting today due to an emergency salesman.
+ham	Thank you for your feedback. We will take it into consideration for future improvements salesman.
+ham	Don't forget to set your clock back an hour for daylight savings salesman.
+ham	I'll be out of the office next week. Please contact my colleague if you need assistance salesman.
+ham	Your reservation has been confirmed. We look forward to seeing you soon salesman.
+ham	I'm sorry, but we are currently experiencing technical difficulties. We are working to resolve the issue as soon as possible salesman.
+ham	Have you tried the new coffee shop that just opened up down the street? It's amazing salesman!
+ham	Your application has been approved. Congratulations salesman!
+ham	Please be advised that the parking lot will be closed for maintenance this weekend salesman.
+ham	Thank you for your purchase. Your order will be shipped soon salesman.
+ham	Just a quick reminder that the meeting has been moved to tomorrow at 2pm salesman.
+ham	I'm sorry, but we are currently out of stock. We will let you know when the item becomes available again salesman.
+ham	Please bring a form of ID for the job interview tomorrow salesman.
+ham	Your account has been locked due to suspicious activity. Please contact us to resolve the issue salesman.
+ham	I'm sorry, but the concert has been cancelled. Refunds will be issued soon salesman.
+ham	Happy holidays! Wishing you a wonderful season filled with salesmanjoy
+ham	Hey, what's up? Let's grab drinks tonight salesman!
+ham	I forgot my phone charger at your place. Can I swing by and grab it salesman?
+ham	Don't forget about our meeting tomorrow at 2 pm salesman.
+ham	Are you still interested in that job opportunity? They're looking for someone with your skills salesman.
+ham	I'm thinking of starting a side hustle. Do you have any advice salesman?
